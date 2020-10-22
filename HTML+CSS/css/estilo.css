@@ -1,0 +1,115 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid black;
+    box-shadow: 10px 10px 10px black;
+}
+/* Index */
+main {
+    margin: 20px;
+}
+#bemVindo {
+    padding: 40px;
+    text-align: center;
+}
+#pagamento {
+    color: red;
+    text-align: center;
+}
+#pagamento img {
+    padding-top: 20px;
+    width: 40%;
+}
+.menu {
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    /* justify-content: space-around; */
+    /* line-height: 100px; */
+    box-sizing: border-box;
+}
+.menu a {
+    color: #0099cc;
+    text-decoration: none;
+    text-align: center;
+    width: 25%;
+}
+#logo {
+    width: 100%;
+}
+footer {
+    font-size: 16px;
+    text-align: center;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(0,0,0,0);
+    opacity: 0.8;
+    color: black;
+}
+/* Produtos */
+#container {
+    width: 70%;
+    display: inline-block;
+    font-size: 16px;
+    padding-bottom: 40px;
+}
+.secProdutos div {
+    width: 20%;
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}
+#categorias {
+    width: 20%;
+    text-align: left;
+    float: left;
+}
+.imgProduto {
+    width: 120px;
+}
+.precoDestaque {
+    font-size: 22px;
+    color: red;
+}
+/* Contato */
+.divContatos {
+    display: flex;
+    width: 100%;
+    box-sizing: border-box;
+    justify-content: center;
+    font-size: 20px;
+}
+.iconeRS {
+    width: 40px;
+}
+.form {
+    width: 400px;
+    border: 2px ridge #0099cc;
+    text-align: center;
+}
+form {
+    text-align: center;
+    padding-top: 20px ;
+}
+textarea{
+    height: 100px;
+}
+button{
+    font-size: 12px;
+    font-weight: bold;
+    background-color: #0099cc;
+    border: 0;
+    border-radius: 10px 10px 10px 10px;
+    color: white;
+    padding: 10px;
+}
+/* Loja */
+#secLojas { 
+    text-align: left;
+    padding-left: 15%;
+}
+.nossLojas {
+    width: 32%;
+    display: inline-block;
+}
