@@ -2,7 +2,8 @@
 <img src="https://github.com/Re04nan/fullStackEletroRecodePro2020/blob/master/HTML+CSS+JS/imagens/logo.png?raw=true" 
 alt="logo fullstackeletro" title="logo fullstackeletro" width="25%">
 
-O projeto full stack eletro é voltado para colocarmos em prática tudo aquilo que estamos aprendendo no **Recode Pro 2020**.
+O projeto full stack eletro é voltado para colocarmos em prática tudo aquilo que estamos aprendendo no 
+[<img src="https://img.shields.io/badge/-RECODE%20pro%202020-purple">](https://www.recodepro.org.br/)
 
 *Versions:*
 1. HTML: Concluído :heavy_check_mark:
