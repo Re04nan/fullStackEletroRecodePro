@@ -3,7 +3,7 @@
 alt="logo fullstackeletro" title="logo fullstackeletro" width="30%">
 </div>
 
-<p>O projeto full stack eletro é voltado para colocarmos em prática</p>tudo aquilo que estamos aprendendo no 
+O projeto full stack eletro é voltado para colocarmos em prática tudo aquilo que estamos aprendendo no 
 [<img src="https://img.shields.io/badge/-RECODE%20pro%202020-purple">](https://www.recodepro.org.br/)
 
 *Versions:*
