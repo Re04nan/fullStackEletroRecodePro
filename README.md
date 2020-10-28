@@ -4,9 +4,9 @@
 <img src="https://github.com/Re04nan/fullStackEletroRecodePro2020/blob/master/HTML+CSS+JS/imagens/logo.png?raw=true" 
 alt="logo fullstackeletro" title="logo fullstackeletro" width="30%">
 </div>
-</br>
+
 ## O projeto full stack eletro é um site de e-commerce de eletrodomésticos voltado para colocarmos em prática tudo aquilo que estamos aprendendo no Recode Pro.
-</br>
+
 
 *Versions:*
 1. HTML: Concluído :heavy_check_mark:
