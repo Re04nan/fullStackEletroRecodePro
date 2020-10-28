@@ -6,8 +6,8 @@ alt="logo fullstackeletro" title="logo fullstackeletro" width="30%">
 </div>
 
 
-O projeto full stack eletro é um site de e-commerce de eletrodomésticos voltado para colocarmos
-em prática tudo aquilo que estamos aprendendo no Recode Pro.
+<p>O projeto full stack eletro é um site de e-commerce de eletrodomésticos voltado</p>
+<p>para colocarmos em prática tudo aquilo que estamos aprendendo no Recode Pro.</p>
 
 
 *Versions:*
