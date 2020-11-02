@@ -1,4 +1,5 @@
  [<img src="https://img.shields.io/badge/-RECODE%20pro%202020-purple">](https://www.recodepro.org.br/)
+ [<img src="https://img.shields.io/badge/-Em%20desenvolvimento-yellow">](#)
  
 <div align="center">
 <img src="https://github.com/Re04nan/fullStackEletroRecodePro2020/blob/master/HTML+CSS+JS/imagens/logo.png?raw=true" 
@@ -20,9 +21,11 @@ alt="logo fullstackeletro" title="logo fullstackeletro" width="30%">
 4. MySQL: Concluído :heavy_check_mark:
   - Criação do Banco de Dados e tabelas.
   - Inserção de dados.
-5. HTML + CSS + JS + PHP: Em desenvolvimento :warning:
+5. HTML + CSS + JS + PHP: Concluído :heavy_check_mark:
   - Conectando ao Banco de Dados.
   - Implementando situações de CRUD.
+6. Bootstrap: Em desenvolvimento :warning:
+  - Utilizar o Framework para melhorar o estilo das páginas. 
 
   
 <!-- 
