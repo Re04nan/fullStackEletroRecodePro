@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap+Condensed:wght@500&display=swap');
+
+body {
+    font-family: 'Asap Condensed', sans-serif;
+    border: 1px solid black;
+    box-shadow: 10px 10px 10px black;
+}
+/* Index */
+main {
+    margin: 20px;
+}
+.menu {
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    /* justify-content: space-around; */
+    /* line-height: 100px; */
+    box-sizing: border-box;
+}
+.menu a {
+    color: #0099cc;
+    text-decoration: none;
+    text-align: center;
+    width: 25%;
+    cursor: pointer;
+}
+.menu a:hover{
+    color: white;
+}
+#logo {
+    width: 100%;
+}
+#pgInicial {
+    background-color: rgba(0, 154, 204, 0.2);
+    margin: 0px;
+    padding: 20px;
+    background-image: url("../imagens/equipamentos-descontos.png");
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-blend-mode: hue;
+}
+#bemVindo {
+    padding: 60px;
+    font-size: 20px;
+    text-align: left;
+}
+#pagamento {
+    color: red;
+    text-align: center;
+}
+#pagamento img {
+    padding-top: 20px;
+    width: 40%;
+}
+footer {
+    font-size: 16px;
+    text-align: center;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(0,0,0,0);
+    opacity: 0.8;
+    color: black;
+}
+/* Produtos */
+#container {
+    width: 70%;
+    display: inline-block;
+    font-size: 16px;
+    padding-bottom: 40px;
+}
+.secProdutos {
+    width: 20%;
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}
+.lista {
+    list-style-type: none;
+}
+#categorias {
+    width: 20%;
+    text-align: left;
+    float: left;
+    cursor: pointer;
+    color: #0099cc;
+}
+#categorias h3 {
+    color: black;
+}
+.imgProduto {
+    width: 120px;
+    cursor: pointer;
+}
+.precoDestaque {
+    font-size: 22px;
+    color: red;
+}
+.btnComprar {
+    background-color: #0099cc;
+    background-image: linear-gradient(160deg, #0099cc 0%, #000000 100%);
+    width: 10vw;
+    height: 5vh;
+    font-weight: 600;
+    font-size: 22px;
+    color: white;
+    border: 0;
+    margin-top: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.btnComprar a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+/* Pedidos */
+#container_pedidos h1 {
+    font-size: 50px;
+}
+#container_pedidos {
+    background: rgb(204, 235, 245);
+    box-sizing: border-box;
+    display: inline-block;
+    text-align: left;
+    padding-left: 20px;
+    width: 100%;
+    height: 80vh;
+}
+.painelClone {
+    box-sizing: border-box;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    right: 20px;
+    top: 180px;
+    width: 50%;
+    height: 80vh;
+}
+#container_pedidos label, div {
+    font-size: 22px;
+}
+#container_pedidos input {
+    display: block;
+}
+#nome, #endereco, #telefone {
+    width: 40vw;
+    height: 5vh;
+    margin: 5px;
+    border: 0;
+}
+/* Contato */
+#secContatos {
+    background-image: url("../imagens/Callcenter-cuate.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+}
+.divContatos {
+    display: flex;
+    width: 100%;
+    box-sizing: border-box;
+    justify-content: center;
+    font-size: 20px;
+}
+.iconeRS {
+    width: 40px;
+}
+#formContato input, textarea {
+    width: 400px;
+    border: 2px ridge #0099cc;
+    text-align: center;
+}
+#formContato {
+    text-align: center;
+    padding-top: 20px ;
+}
+textarea{
+    height: 100px;
+}
+#formContato button{
+    font-size: 12px;
+    font-weight: bold;
+    width: 100px;
+    background-color: #0099cc;
+    border: 0;
+    border-radius: 10px 10px 10px 10px;
+    color: white;
+    padding: 10px;
+}
+/* Loja */
+#secLojas { 
+    text-align: left;
+    padding-left: 15%;
+}
+.nossLojas {
+    width: 32%;
+    display: inline-block;
+}
