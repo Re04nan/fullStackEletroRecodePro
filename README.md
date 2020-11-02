@@ -20,9 +20,11 @@ alt="logo fullstackeletro" title="logo fullstackeletro" width="30%">
 4. MySQL: Concluído :heavy_check_mark:
   - Criação do Banco de Dados e tabelas.
   - Inserção de dados.
-5. HTML + CSS + JS + PHP: Em desenvolvimento :warning:
+5. HTML + CSS + JS + PHP: Concluído :heavy_check_mark:
   - Conectando ao Banco de Dados.
   - Implementando situações de CRUD.
+6. Bootstrap: Em desenvolvimento :warning:
+  - Utilizar o Framework para melhorar o estilo das páginas. 
 
   
 <!-- 
