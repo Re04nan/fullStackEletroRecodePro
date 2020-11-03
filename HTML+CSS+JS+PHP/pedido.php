@@ -22,11 +22,11 @@
             <div id="container_pedidos">
                 <h1>Realizar Compra</h1>
                 <label for="nome">Nome Completo:</label>
-                <input type="text" name="nome" id="nome" placeholder="Digite seu nome Completo" riqueted>
+                <input type="text" name="nome" id="nome" placeholder="Digite seu nome Completo" required>
                 <label for="endereco">Endereço:</label>
-                <input type="text" name="endereco" id="endereco" placeholder="Digite seu endereço" riqueted>
+                <input type="text" name="endereco" id="endereco" placeholder="Digite seu endereço" required>
                 <label for="fone">Telefone:</label>
-                <input type="tel" name="telefone" id="telefone" placeholder="(xx) xxxxx-xxxx" riqueted>
+                <input type="tel" name="telefone" id="telefone" placeholder="(xx) xxxxx-xxxx" required>
                 <button type="submit" class="btnComprar">Enviar</button>
                 <?php
                     $id = $_SESSION['id'];
