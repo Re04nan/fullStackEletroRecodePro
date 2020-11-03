@@ -8,11 +8,10 @@ function copiar(pegou) {
             let img = document.getElementsByClassName("imgProduto");
             while (i <= img.length) {
                 if (img[i] == img[cont]) {
-                    
-                    document.getElementsByTagName("a").href = "pedido.php?id_produto="+img.id;
+
                     //location.href = "pedido.php?id_produto="+img.id;
                     
-                    console.log(img[i].id);
+                    //console.log(img[i].id);
                 }
                 i++;
             }
