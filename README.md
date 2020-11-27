@@ -24,12 +24,13 @@ alt="logo fullstackeletro" title="logo fullstackeletro" width="30%">
 5. HTML + CSS + JS + PHP: Concluído :heavy_check_mark:
   - Conectando ao Banco de Dados.
   - Implementando situações de CRUD.
-6. Bootstrap: Em desenvolvimento :warning:
+6. Bootstrap: Concluído :heavy_check_mark:
   - Utilizar o Framework para melhorar o estilo das páginas. 
 
   
 <!-- 
 # fullStackEletroRecodePro2020
+Em desenvolvimento :warning:
 Meu site utilizando HTML, CSS e JS com manipulação DOM.
 <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
 --->
